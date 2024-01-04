@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/home/static/css/main.fe927caf.css",
+    "main.js": "/home/static/js/main.c6441661.js",
+    "static/js/787.4b24f717.chunk.js": "/home/static/js/787.4b24f717.chunk.js",
+    "static/media/profile.png": "/home/static/media/profile.3b54be3ddde0ff7eeeb6.png",
+    "static/media/resume.pdf": "/home/static/media/resume.5563595f76dcfa5a11b7.pdf",
+    "static/media/ubc-logo.jpg": "/home/static/media/ubc-logo.f159f2616b5f2b30ac30.jpg",
+    "static/media/bci-logo.png": "/home/static/media/bci-logo.e6f9e26383ee1b84822b.png",
+    "index.html": "/home/index.html",
+    "main.fe927caf.css.map": "/home/static/css/main.fe927caf.css.map",
+    "main.c6441661.js.map": "/home/static/js/main.c6441661.js.map",
+    "787.4b24f717.chunk.js.map": "/home/static/js/787.4b24f717.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe927caf.css",
+    "static/js/main.c6441661.js"
+  ]
+}

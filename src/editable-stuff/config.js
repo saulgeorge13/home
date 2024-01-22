@@ -56,7 +56,7 @@ const repos = {
   heading: "Projects",
   gitHubUsername: "saulgeorge13", //i.e."johnDoe12Gh"
   reposLength: 0,
-  specificRepos: ["MovieRecommender", "SpaceFighters", "tictactoe", "CalorieApp"],
+  specificRepos: ["MovieRecommender", "StockMarketAnalysis", "SpaceFighters", "tictactoe", "CalorieApp"],
 };
 
 // Leadership SECTION
